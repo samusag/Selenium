@@ -9,4 +9,9 @@ public class Main {
         // si queremos concatenar algo tenemos que poner el simbolo de +
         System.out.println("Mi primer ejemplo");
     }
+
+    //varibables
+    // tipo dato nombre de la variable
+
+
 }
