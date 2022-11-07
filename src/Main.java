@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         // linea que nos indica una salida a pantalla
         // si queremos concatenar algo tenemos que poner el simbolo de +
-        System.out.println("Mi primer ejemplo");
+        System.out.println("Mi primer PRACTICA");
     }
 
     //varibables
