@@ -1,3 +1,5 @@
+
+
 // clase-> es una plantilla que contiene elementos, objetos, metodos, funciones, variables.
 // public y class son palabras reservadas
 // Nomenclatura nombre clases -->pascal case -> primer letra empiece con mayuscula
